@@ -1,4 +1,4 @@
-package com.pfp.mybatis_plus.config;
+package com.example.mybatis_plus.config;
 
 import com.baomidou.mybatisplus.core.exceptions.MybatisPlusException;
 import com.baomidou.mybatisplus.core.toolkit.StringPool;
